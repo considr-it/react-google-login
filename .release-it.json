@@ -6,6 +6,9 @@
     "push": false
   },
   "npm": {
-    "ignoreVersion": true
+    "ignoreVersion": true,
+    "publishConfig": {
+      "access": "public"
+    }
   }
 }
